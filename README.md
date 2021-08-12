@@ -4,13 +4,13 @@ RAWG is the largest video game dataset and game discovery service with 500,000+ 
 
 ## Problem statement
 * Which is the top most rated games across all platform
-* Which gam dev has released most games in a year
+* Which game developer has released most games in a year
 
 ## Tech Stack USed
 * Pyspark
 * Python
 * Spark
-* spark SQL
+* Spark SQL
 * Hadoop
 * Yarn
 * HDFS
