@@ -61,4 +61,5 @@ RAWG is the **largest video game dataset** and game discovery service with 500,0
 * added_status_playing: Number of RAWG users had the game as "Playing"
 
 # Data Set Used
-* [Data Set](https://api.rawg.io/docs/)
+* [Data Set Document](https://api.rawg.io/docs/)
+* [Data Set](https://www.kaggle.com/jummyegg/rawg-game-dataset)
