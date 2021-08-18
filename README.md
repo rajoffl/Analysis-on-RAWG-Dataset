@@ -1,4 +1,4 @@
-# Analysis-on-RAWG-Dataset
+# Analysis on RAWG Dataset
 ###### By Rajkumar K
 
 RAWG is the **largest video game dataset** and game discovery service with 500,000+ games data
@@ -26,14 +26,12 @@ RAWG is the **largest video game dataset** and game discovery service with 500,0
 
 
 ## Data Definations
-
 * For all problems we used RAWG games dataset
     eg: 1,dgeneration-hd,D/Generation HD,,2015-10-23,False,2019-09-17T11:58:57,<br>
     http://dgeneration.net,0.0,0,1,80,2,292,0,4,PC||macOS||Xbox One||PlayStation 4||Nintendo Switch,<br>
     West Coast Software,Adventure||Puzzle,West Coast Software,Everyone 10+,4,88,2,2,0,0
 
 #### Column definitions
-
 * id: An unique ID identifying this Game in RAWG Database
 * slug: An unique slug identifying this Game in RAWG Database
 * name: Name of the game
